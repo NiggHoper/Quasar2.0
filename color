@@ -2,7 +2,7 @@ local library = {
 	flags = {}, 
 	items = {}
 }
-local UiLib = loadstring(game:HttpGet("https://rentry.co/p5ghnevv/raw"))()
+local UiLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/NiggHoper/Quasar2.0/main/wl"))()
 local runservice = game:GetService("RunService")
 local uis = game:GetService("UserInputService")
 local tweenservice = game:GetService("TweenService")
